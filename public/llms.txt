@@ -1,0 +1,53 @@
+# משכנתאיסט — Generative Engine Optimization Map
+
+> A שירותים פיננסיים business.
+
+---
+
+## Pages
+
+### Home
+https://-a20d6868.zappy5.app
+
+### Services
+https://-a20d6868.zappy5.app/services
+
+### About
+https://-a20d6868.zappy5.app/about
+
+### Contact
+https://-a20d6868.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a20d6868.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a20d6868.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a20d6868.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משכנתאיסט
+משכנתאיסט is a business in the שירותים פיננסיים industry.
+
+## Target Audience
+לקוחות המחפשים ייעוץ משכנתאות ואיחוד הלוואות
+
+## Industry
+שירותים פיננסיים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a20d6868.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a20d6868.zappy5.app/robots.txt
